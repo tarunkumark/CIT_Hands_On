@@ -1,7 +1,7 @@
 # Local Setup Steps
 ## Clone the repo
 ```bash
-git clone https://github.com/tarunkumark/PyExpo-FastAPI
+git clone https://github.com/tarunkumark/CIT_Hands_On
 ```
 ## Create a virtual environment
 
