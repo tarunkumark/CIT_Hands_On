@@ -6,7 +6,7 @@ git clone https://github.com/tarunkumark/CIT_Hands_On
 ## Create a virtual environment
 
 ```bash
-cd PyExpo-FastAPI
+cd CIT_Hands_On
 python3 -m venv env
 ```
 
